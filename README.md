@@ -1,5 +1,4 @@
 Project Title:
-
 ATM Transaction System
 
 Getting Started:
@@ -7,7 +6,8 @@ This project is ATM Transaction System. It is a part of banking management syste
 
 Prerequisites:
 It is a project that was created by c programming language. As a result, to complete my projects I needed to use Code Blocks IDE.
-Installation
+
+Installation:
 1.	First of all I was going to official code blocks website that is http://www.codeblocks.org/
 2.	Next step was going to download options
 3.	Then I had completed download code blocks for based my computer configuration
