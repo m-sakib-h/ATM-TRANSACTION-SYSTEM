@@ -1,12 +1,12 @@
-Project Title:
+#Project Title:
 
 ATM Transaction System
 
-Getting Started:
+##Getting Started:
 
 This project is ATM Transaction System. It is a part of banking management system. In this system user can check balance, deposit money, withdraw money. Additionally, users can payment university bill of Daffodil International University Dhaka University in Bangladesh. Besides user can pay electric bill & shopping bill through this system. Furthermore, user can money transfer in any bank account. In addition, users can also do mobile recharge in this system. Moreover, user can get help from this system.
 
-Prerequisites:
+##Prerequisites:
 
 It is a project that was created by c programming language. As a result, to complete my projects I needed to use Code Blocks IDE.
 
